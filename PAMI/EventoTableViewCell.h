@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface EventoTableViewCell : UITableViewCell
-
+@property (nonatomic) IBOutlet UIImageView * imagen;
+@property (nonatomic) IBOutlet UILabel * titulo;
+@property (nonatomic) IBOutlet UILabel * descripcion;
 @end

@@ -1,29 +1,15 @@
 //
-//  FirstViewController.m
+//  Perinola.m
 //  PAMI
 //
 //  Created by Estefania Soledad Miguel on 15/11/14.
 //  Copyright (c) 2014 EstefaniaMiguel. All rights reserved.
 //
 
-#import "FirstViewController.h"
-
-@interface FirstViewController ()
-
+#import "Perinola.h"
+@interface Perinola ()
 @end
 
-@implementation FirstViewController
-
-- (void)viewDidLoad
-{
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
+@implementation Perinola
 
 @end

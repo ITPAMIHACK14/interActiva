@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  Perinola.h
 //  PAMI
 //
 //  Created by Estefania Soledad Miguel on 15/11/14.
@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface FirstViewController : UIViewController
+@interface Perinola : UIViewController
 
 @end

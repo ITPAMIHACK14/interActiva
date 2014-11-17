@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  Eventos.h
 //  PAMI
 //
 //  Created by Estefania Soledad Miguel on 15/11/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
+@interface Eventos : UIViewController <UITableViewDataSource, UITableViewDelegate>
 
 @end
